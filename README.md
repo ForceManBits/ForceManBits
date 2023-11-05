@@ -2,8 +2,6 @@
 
 
 
-<img  align="left" src=https://github.com/ForceManBits/ForceManBits/assets/89349692/e2de69f6-14cb-439a-89a4-864bbb5fb19b width="370px" height="480px">
-
 ## Estudante do IOS, Desenvolvedor Web amador. 
 
 ### Alguma hora eu edito algo interessante aqui.
