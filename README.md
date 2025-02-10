@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <h1>Someday i'll put anything cool in here.</h1>
+  <h1>Someday i'll put anything cool here.</h1>
 </div>
 
 <div margin="16rem" align="center"> 
