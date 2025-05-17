@@ -14,7 +14,7 @@
 <div align= "left">
 <p>I'm a Brazilian mostly self-thought web-developer who really enjoys making fun blogs, fighting games, philosophy, history and drawing!</p>
 <p>I speak 🇬🇧 English, 🇧🇷 Portuguese and learning 🇰🇷 Korean at the moment.</p>
-<p>Currently working as a IT Technician in a philantrophy.</p>
+<p>Currently working as a IT Technician at a philantrophy.</p>
 </div>
 
 
