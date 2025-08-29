@@ -34,21 +34,21 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=php,java" />
   </a>
 </p>
 
 <h3 align="left">Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,blender" />
+    <img src="https://skillicons.dev/icons?i=figma,blender" />
   </a>
 </p>
 
 <h3 align="left">OSes that i use:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,mint,arch" />
+    <img src="https://skillicons.dev/icons?i=windows,arch" />
   </a>
 </p>
   
