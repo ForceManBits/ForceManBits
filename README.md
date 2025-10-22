@@ -1,83 +1,52 @@
+<h2 align="left">Hello! My name is Guilherme Reis!</h2>
 
+### Who am i?
+<p>I'm a Brazilian mostly self-taught web-developer who really enjoys making fun blogs, fighting games, philosophy, history and drawing!
 
+I speak 🇬🇧 English, 🇧🇷 Portuguese and learning 🇰🇷 Korean at the moment.
 
+Currently working as a IT Technician at a philantrophy.</p>
+
+###
+<br>
 
 <div align="center">
-  <h1>Hey there! I'm Guilherme Reis!</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=forcemanbits&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=forcemanbits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div margin="16rem" align="center"> 
+###
 
-<h3 align="center"><i>"Learning new things everyday. Always striving to be better than yesterday."</i></h3>
-<br>
-<br>
-<div align= "left">
-<p>I'm a Brazilian mostly self-taught web-developer who really enjoys making fun blogs, fighting games, philosophy, history and drawing!</p>
-<p>I speak 🇬🇧 English, 🇧🇷 Portuguese and learning 🇰🇷 Korean at the moment.</p>
-<p>Currently working as a IT Technician at a philantrophy.</p>
-</div>
+<img align="right" height="150" src="./assets/daftpunk.gif" alt="Daft Punk Drums" />
 
+###
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<h3 align="left">Front-End</h3>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-  </a>
-</p>
-
-<h3 align="left">Back-end</h3>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java" />
-  </a>
-</p>
-
-<h3 align="left">Tools</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender" />
-  </a>
-</p>
-
-<h3 align="left">OSes that i use:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,arch" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
   
-<h3 align="left">My socials:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/guilhermeareiss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermereis" height="30" width="40" /></a>
-</p>
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forcemanbits&layout=compact&theme=radical)
-
-<h3 align="center">And that's it! Thank you for reading! :D</h3>
 
 </div>
 
+###
+
+<div align="left">
+  
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</img>
+###
